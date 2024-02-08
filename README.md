@@ -21,10 +21,6 @@ XeroScope is a crosshair editor tool designed to modify and update crosshairs fo
 ## Installation
 
 1. Clone or download the XeroScope repository.
-2. Install the required libraries using pip:
-    ```
-    pip install -r requirements.txt
-    ```
 3. Run the XeroScope.exe file to launch the XeroScope application.
 
 ## Usage
