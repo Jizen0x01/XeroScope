@@ -46,11 +46,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-XeroScope was developed by [Jizen0x01], Tested by [-Karthus]
+XeroScope was developed by [Jizen0x01](https://github.com/Jizen0x01), Tested by [-Karthus](https://xero.gg/player/-Karthus), [Wolfyx](https://xero.gg/player/Wolfyx), [Orchestra Clan](https://xero.gg/clan/Orchestra)
 
 ## Contributing
 
-We welcome contributions from the community! If you'd like to contribute to XeroScope, whether it's by fixing a bug, adding a feature, or improving the documentation, we'd love to have your help.
+I welcome contributions from the community! If you'd like to contribute to XeroScope, whether it's by fixing a bug, adding a feature, or improving the documentation, we'd love to have your help.
 
 Feel free to fork the repository, make your changes, and submit a pull request. We appreciate your contributions in making XeroScope better.
 
