@@ -42,7 +42,7 @@ XeroScope stores the Xero folder path in the config.ini file to locate the game 
 
 ## License
 
-This project is licensed under the MIT License ![License]
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
