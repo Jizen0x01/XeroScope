@@ -1,8 +1,8 @@
-# XeroScope - Xero Crosshair Editor
+# XeroScope - Crosshair Editor
 
 ## Introduction
 
-XeroScope is a crosshair editor tool designed to modify and update crosshairs for weapons in Xero. This tool provides a user-friendly interface to select weapons and update their respective crosshairs.
+XeroScope is a crosshair editor tool designed to modify and update crosshairs for weapons in the Xero game. This tool provides a user-friendly interface to select weapons and update their respective crosshairs.
 
 ## Features
 
@@ -21,7 +21,11 @@ XeroScope is a crosshair editor tool designed to modify and update crosshairs fo
 ## Installation
 
 1. Clone or download the XeroScope repository.
-3. Run the XeroScope.exe file to launch the XeroScope application.
+2. Install the required libraries using pip:
+    ```
+    pip install -r requirements.txt
+    ```
+3. Run the main.py file to launch the XeroScope application.
 
 ## Usage
 
